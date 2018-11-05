@@ -3,6 +3,5 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
-def move(board_array, user_index, character = 'X')
-
-end
+puts "Welcome to Tic Tac Toe!"
+board = [" "," "," "," "," "," "," "," "," "]
